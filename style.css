@@ -274,7 +274,7 @@ ol{
     margin: auto;
     margin-top: 200px;
     background-color: rgb(103, 75, 175,0.9);    
-    border-radius:  0px 200px 0px 0px;
+    border-radius:  200px 200px 0px 0px;
 }
 .wrapit{
     display: flex;
